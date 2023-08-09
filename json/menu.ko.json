@@ -1,0 +1,54 @@
+{
+  "site_name": "나인원랩스",
+  "pages": [
+    {
+      "title": "홈페이지 제작",
+      "dirname": "homepage",
+      "pages": [
+        {
+          "title": "제작안내",
+          "filename": "build.guide",
+          "pages": [{ "title": "디테일", "filename": "detail" }]
+        },
+        { "title": "비용안내", "filename": "cost.guide" },
+        { "title": "포트폴리오", "filename": "portfolio" },
+        { "title": "견적문의", "filename": "contact" }
+      ]
+    },
+    {
+      "title": "프로그램 개발",
+      "dirname": "program",
+      "pages": [
+        { "title": "제작안내", "filename": "build.guide" },
+        { "title": "개발안내", "filename": "dev.guide" },
+        { "title": "고객사", "filename": "customer" },
+        { "title": "견적문의", "filename": "contact" }
+      ]
+    },
+    {
+      "title": "부가서비스",
+      "dirname": "services",
+      "pages": [
+        { "title": "유지보수", "filename": "management" },
+        { "title": "웹호스팅", "filename": "hoisting" },
+        { "title": "SMS 문자서비스", "filename": "sms" },
+        { "title": "본인 인증서비스", "filename": "auth" },
+        { "title": "SSL 보안인증서", "filename": "ssl" },
+        { "title": "신용카드 결제", "filename": "credit.payment" }
+      ]
+    },
+    {
+      "title": "견적문의",
+      "dirname": "contact",
+      "pages": [
+        { "title": "견적문의", "filename": "inquiry" },
+        { "title": "진행 프로젝트", "board_no": 10, "category_no": 8 },
+        { "title": "제휴 문의", "filename": "partnership" }
+      ]
+    },
+    {
+      "title": "추가서비스",
+      "filename": "service"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "site_name": "nineonelabs",
+  "pages": [
+    {
+      "title": "Homepage production",
+      "dirname": "homepage",
+      "pages": [
+        {
+          "title": "build guide",
+          "filename": "build.guide",
+          "pages": [{ "title": "detail", "filename": "detail" }]
+        },
+        { "title": "cost guide", "filename": "cost.guide" },
+        { "title": "portfolio", "filename": "portfolio" },
+        { "title": "Quote Contact", "filename": "contact" }
+      ]
+    },
+    {
+      "title": "program development",
+      "dirname": "program",
+      "pages": [
+        { "title": "production guide", "filename": "build.guide" },
+        { "title": "Development guide", "filename": "dev.guide" },
+        { "title": "customer", "filename": "customer" },
+        { "title": "Quote Contact", "filename": "contact" }
+      ]
+    },
+    {
+      "title": "Extra service",
+      "dirname": "services",
+      "pages": [
+        { "title": "maintenance", "filename": "management" },
+        { "title": "web hosting", "filename": "hoisting" },
+        { "title": "SMS text service", "filename": "sms" },
+        { "title": "Identity authentication service", "filename": "auth" },
+        { "title": "SSL Security Certificate", "filename": "ssl" },
+        { "title": "credit card payment", "filename": "credit.payment" }
+      ]
+    },
+    {
+      "title": "Quote Contact",
+      "dirname": "contact",
+      "pages": [
+        { "title": "Quote Contact", "filename": "inquiry" },
+        { "title": "progress project", "board_no": 90, "category_no": 4 },
+        { "title": "Affiliate Inquiry", "filename": "partnership" }
+      ]
+    },
+    {
+      "title": "Additional service",
+      "filename": "service"
+    }
+  ]
+}
